@@ -1,0 +1,17 @@
+:root{
+    --darkblue: #212C4F;
+    --darkGreen: #205284;
+    --ligthGray: #F0F3F5;
+    --ligthGreen: #205284;
+    --ligthBlue: #C6D0EB;
+    --black: #000000;
+    --violet: #B01EFF;
+    --pink: #E1467C;
+    --purple: #7B42F6;
+    --blue: #3672F8;
+    --minimalBlue: #F2F6FF;
+    --purpleViolet: linear-gradient(90deg, #7B42F6 0%, #B01EFF 91.79%);
+    --violetPink: linear-gradient(90deg, #B01EFF 0%, #E1467C 100%);
+    --blueViolet: linear-gradient(90deg, #3672F8 0%, #B01EFF 100%);
+    --marineBlue: linear-gradient(90deg, #19DEDE 0%, #337EF5 100%, #337EF5 100%);
+ }
